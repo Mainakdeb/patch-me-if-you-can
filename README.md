@@ -1,4 +1,4 @@
-### :robot: Fooling Neural Nets with Targeted Adversarial Patches
+### :robot: Fooling Vision Transformers using targeted Adversarial Patches
 
 [Link to Paper](https://arxiv.org/pdf/1712.09665.pdf)
 
