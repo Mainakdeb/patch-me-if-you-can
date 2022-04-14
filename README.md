@@ -1,11 +1,8 @@
-### :robot: Fooling Vision Transformers using targeted Adversarial Patches
+### :robot: Fooling Vision Transformers using Targeted Adversarial Patches
 
-[Link to Paper](https://arxiv.org/pdf/1712.09665.pdf)
+#### Under the Hood:
+<img src=/media/fool-transformers.jpg width=900>
 
-##### Assault Rifle -> iPod? 
-
+#### Assault Rifle -> iPod? 
 <img src=/media/assault-rifle-ipod-vis-transformer.jpg width=500>
-
-##### More Examples
-<img src=/media/cat_gun_attack_compressed.png width=600>
 
