@@ -5,3 +5,6 @@
 
 #### :wrench:	Under the Hood:
 <img src=/media/fool-transformers.jpg width=900>
+
+#### Recommended Reading:
+  * [Adversarial Patch Paper](https://arxiv.org/abs/1712.09665)
